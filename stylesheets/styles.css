@@ -1,6 +1,6 @@
 body
 {
- background: rgb(22, 21, 20);
+ background: rgb(0, 0, 0);
  font-size: 16px;
 }
 
@@ -62,7 +62,7 @@ h3
 
 header.sidebar
 {
-  background-color: #EEEEEE;
+  background-color: #c3a0eb;
   width: 30%;
   background-size: cover;
   display: inline-block;
