@@ -101,7 +101,7 @@ div.sidebar_userimage img
 div.comunidad-autoria
 {
   border-bottom: solid 1px white;
-  background: black;
+  background: rgb(81, 204, 186);
   border-top: solid 1px white;
   padding: 3% 0;
   margin: 12% 0;
@@ -135,7 +135,7 @@ text-align: center;
 
 div.nombre p
 {
-  color: rgb(255, 255, 255)
+  color: rgb(0, 0, 0)
 }
 
 div.layout-principal
